@@ -1,0 +1,10 @@
+body {
+    font-family: "Roboto";
+    background-color: rgb(192, 245, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+img {
+    width: 250px;
+    height: 250px;
+}
